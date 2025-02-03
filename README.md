@@ -13,4 +13,6 @@ I made this before I had the concept of front-stack and back-step development an
 
 I didn't import any libraries really other than tkinter and basic font libraries, because I liked coding everything myself, something that I still am guilty of today, haha. I guess some things don't change :p
 
-It is just the file eXOtended.py, if you are curious in running it. I coded it with IDLE, but any other app that runs Python should work with it.
+It is just the file eXOtended.py, if you are curious in running it. Try running it with Python's IDLE.
+
+If the screen gets cut off weirdly, find the line where I wrote "ratio = 1" and change it to "ratio = 60/94" and it should be fine.
