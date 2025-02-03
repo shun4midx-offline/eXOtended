@@ -9,7 +9,7 @@ I'm still proud of this piece of work, and it is kind of the only project I'm ge
 
 That's why I'm pushing it onto this account, because I want to separate it from my main as it is not the current me at all, but with the sheer amount of effort and hours I put into this, it clearly deserves some recognition to at least be put public.
 
-I made this before I had the concept of front-stack and back-step development and had terrible coding practices, so don't use this program to judge my coding ability since it is definitely way better now, but it still has a soft spot in my heart because I remembered how much this little program meant to me. Afterall, I did include it in my personal statement that got me into CS in college, not that it is even a main part of the personal statement, but still.
+I made this before I had the concept of front-stack and back-stack development and had terrible coding practices, so don't use this program to judge my coding ability since it is definitely way better now, but it still has a soft spot in my heart because I remembered how much this little program meant to me. Afterall, I did include it in my personal statement that got me into CS in college, not that it is even a main part of the personal statement, but still.
 
 I didn't import any libraries really other than tkinter and basic font libraries, because I liked coding everything myself, something that I still am guilty of today, haha. I guess some things don't change :p
 
