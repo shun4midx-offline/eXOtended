@@ -11,6 +11,6 @@ That's why I'm pushing it onto this account, because I want to separate it from 
 
 I made this before I had the concept of front-stack and back-step development and had terrible coding practices, so don't use this program to judge my coding ability since it is definitely way better now, but it still has a soft spot in my heart because I remembered how much this little program meant to me. Afterall, I did include it in my personal statement that got me into CS in college, not that it is even a main part of the personal statement, but still.
 
-I didn't import any libraries really other than tkinter and basic font libraries, because I liked coding everything myself, something that I still am guilty of today, haha. I guess some things don't change
+I didn't import any libraries really other than tkinter and basic font libraries, because I liked coding everything myself, something that I still am guilty of today, haha. I guess some things don't change :p
 
 It is just the file eXOtended.py, if you are curious in running it. I coded it with IDLE, but any other app that runs Python should work with it.
